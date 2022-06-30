@@ -3,15 +3,26 @@ I'm Monika , pursuing Bachelors in Computer science and engineering. I am an ent
 I like solving Real world problem, so I have a keen interest in Programming and exploring new Technologies. I also like to draw in my free time, So I am also into graphic designing and wanted to become a UI/UX Designer some day:)
 
 
-- 🌱 I’m currently learning **UI/UX Designing & Java**
+### 🧐 Some Things About Me 
+<li>😄 Pronouns: She/her</li>
+<li>🏠 Hogwarts House: Gryffindore</li>
+<li>💬 Favourite Quotes: 
 
-- 👯 I’m looking to collaborate on **UI/UX Projects**
+     > "If you don't wake up everyday with a burning desire to do things, you don't have enough goals." - Lou Holtz
 
-- 📝 I generate passive income [dm me to know more:)]
+     > "Success is the sum of small efforts, repeated day in and day out." - Robert Collier
 
-- 🛒Shop from my Online Store **https://www.redbubble.com/people/Rizumee13/shop?asc=u&ref=account-nav-dropdown**
+     > "You don't have to be great to start, but you have to start to be great"  - Zig Zagler
+</li>
+<li>🌱 I’m currently learning **UI/UX Designing & Java**</li>
 
-- 💬 Ask me about **Java, UI/UX Design,Passive Income & Print On demand**
+<li>👯 I’m looking to collaborate on **UI/UX Projects**</li>
+
+<li>📝 I generate passive income [dm me to know more:)]</li>
+
+<li>🛒Shop from my Online Store **https://www.redbubble.com/people/Rizumee13/shop?asc=u&ref=account-nav-dropdown**</li>
+
+<li>💬 Ask me about **Java, UI/UX Design,Passive Income & Print On demand**</li>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
