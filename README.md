@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Monana13?tab=repositories](https://github.com/Monana13?tab=repositories)
 
-- 📝 I generate passive income [dm me to know more:)](dm me to know more:))
+- 📝 I generate passive income [dm me to know more:)]
 
 - 💬 Ask me about **Java, UI/UX Design,Passive Income & Print On demand**
 
