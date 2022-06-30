@@ -1,23 +1,17 @@
-<h1 align="center">Hi 👋, I'm Monika</h1>
-<h3 align="center">A Girl trying to Figure-Out Stuff!!</h3>
+### 👋 Hello world!👻
+I'm Monika , pursuing Bachelors in Computer science and engineering. I am an enthusiastic and social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.
+I like solving Real world problem, so I have a keen interest in Programming and exploring new Technologies. I also like to draw in my free time, So I am also into graphic designing and wanted to become a UI/UX Designer some day:)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=monana13&label=Profile%20views&color=0e75b6&style=flat" alt="monana13" /> </p>
-
-- 🔭 I’m currently working on **UI/UX Project**
 
 - 🌱 I’m currently learning **UI/UX Designing & Java**
 
 - 👯 I’m looking to collaborate on **UI/UX Projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Monana13?tab=repositories](https://github.com/Monana13?tab=repositories)
-
 - 📝 I generate passive income [dm me to know more:)]
 
+- 🛒Shop from my Online Store **https://www.redbubble.com/people/Rizumee13/shop?asc=u&ref=account-nav-dropdown**
+
 - 💬 Ask me about **Java, UI/UX Design,Passive Income & Print On demand**
-
-- 📫 How to reach me **monikasingh172012@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/monika-singh-447255194/](https://www.linkedin.com/in/monika-singh-447255194/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
