@@ -1,3 +1,5 @@
+<img src="https://github.com/Monana13/Monana13/blob/main/Monana13.gif" alt="Here is a little bit about me!">
+
 ### 👋 Hello world!👻
 I'm Monika , pursuing Bachelors in Computer science and engineering. I am an enthusiastic and social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.
 I like solving Real world problem, so I have a keen interest in Programming and exploring new Technologies. I also like to draw in my free time, So I am also into graphic designing and wanted to become a UI/UX Designer some day:)
