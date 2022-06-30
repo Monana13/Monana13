@@ -1,3 +1,4 @@
+<p align="left"> <img src="https://drive.google.com/file/d/1afzNdWkXx4hXGf9grIhLJqGWkX07NHdN/view?usp=sharing" alt="Monana13" /> </p>
 <h1 align="center">Hi 👋, I'm Monika</h1>
 <h3 align="center">A Girl trying to Figure-Out Stuff!!</h3>
 
@@ -8,8 +9,6 @@
 - 🌱 I’m currently learning **UI/UX Designing & Java**
 
 - 👯 I’m looking to collaborate on **UI/UX Projects**
-
-- 🤝 I’m looking for help with **Java**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Monana13?tab=repositories](https://github.com/Monana13?tab=repositories)
 
